@@ -1,0 +1,7 @@
+pandas
+numpy
+geopy
+seaborn
+sklearn 
+streamlit
+joblib
